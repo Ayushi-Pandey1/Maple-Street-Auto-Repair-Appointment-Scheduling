@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body { @apply bg-slate-50 text-slate-800; }
+.card { @apply bg-white shadow-md rounded-lg p-6; }
+.react-datepicker-wrapper { width: 100%; }
